@@ -1,0 +1,13 @@
+
+
+
+$ git clone https://github.com/username/usernam.github.io.git
+
+
+
+Index.md
+Hello world
+
+$ git add index.md
+$ git commit -m "first commit"
+$ git push
